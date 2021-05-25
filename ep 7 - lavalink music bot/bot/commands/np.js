@@ -25,5 +25,5 @@ module.exports = {
         );
     },
 
-    command: 'np'
+    command: 'npp'
 }
